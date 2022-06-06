@@ -24,7 +24,7 @@ public class DBManager {
             e.printStackTrace();
         }
     }
-
+    //comment
     public static ArrayList<User> getAllUsers(){
         ArrayList<User> users = new ArrayList<>();
         try {
